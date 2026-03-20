@@ -1,0 +1,5 @@
+anthropic
+python-dotenv
+streamlit
+newspaper3k
+lxml_html_clean

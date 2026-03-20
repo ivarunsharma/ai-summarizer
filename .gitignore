@@ -1,0 +1,18 @@
+# Secret keys
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+
+# VS Code
+.vscode/
+
+# streamlit cache
+.streamlit/
